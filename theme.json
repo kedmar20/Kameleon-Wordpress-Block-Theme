@@ -23,6 +23,16 @@
                "color": "#ffffff",
                "name": "White",
                "slug": "white"
+            },
+            {
+               "color": "mediumorchid",
+               "name": "Mediumorchid",
+               "slug": "mediumorchid"
+            },
+            {
+               "color": "rosybrown",
+               "name": "Rosybrown",
+               "slug": "rosybrown"
             }
          ],
          "text": true
